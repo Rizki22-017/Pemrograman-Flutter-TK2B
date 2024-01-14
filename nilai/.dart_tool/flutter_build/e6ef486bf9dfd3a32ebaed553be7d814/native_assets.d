@@ -1,0 +1,1 @@
+ C:\\Users\\rizky\\Downloads\\nilai\\.dart_tool\\flutter_build\\e6ef486bf9dfd3a32ebaed553be7d814\\native_assets.yaml: 

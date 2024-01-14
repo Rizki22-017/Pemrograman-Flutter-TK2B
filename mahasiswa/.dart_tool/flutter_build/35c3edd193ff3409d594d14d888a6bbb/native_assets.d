@@ -1,0 +1,1 @@
+ C:\\Users\\rizky\\Downloads\\mahasiswa\\.dart_tool\\flutter_build\\35c3edd193ff3409d594d14d888a6bbb\\native_assets.yaml: 
